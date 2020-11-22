@@ -3,7 +3,10 @@ require "rest-client"
 require "pry-byebug"
 
 UNIQ_SLUGS = ['usr']
-UNIQ_PICS = ['https://randomuser.me/api/portraits/women/62.jpg'] # known duplicates
+UNIQ_PICS = [
+  'https://randomuser.me/api/portraits/women/62.jpg',
+  'https://randomuser.me/api/portraits/women/39.jpg'
+  ] # known duplicates and bad pics
 
 NATIONALITIES=%w[AU BR CA CH DE DK ES FI FR GB NO NL NZ US].join(',')
 
