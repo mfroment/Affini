@@ -2,7 +2,7 @@
 
 Affini is a personal relationship manager built as our team's final project at the Le Wagon full-stack web development bootcamp. Created in ten days, the project was inspired by the book "The Rosie Project" by Graeme Simsion.
 
-Modeled after popular CRM software, Affini allows you add connections, manage and track your activities with them using "Check-ins", and reminds you of any important events relevant to individual connections.
+Modeled after popular CRM software, Affini allows you to add connections, manage and track your activities with them using "Check-ins", and reminds you of any important events relevant to individual connections.
 
 For each connection, it lets you set individual target frequency for checking in (weekly, monthly, etc), and computes an *Affinity* score to help you track how well you are doing.
 
